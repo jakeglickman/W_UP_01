@@ -72,3 +72,4 @@ The chances of seeing a result like this if there was no difference between the 
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+On average the skillplayers did more pushups than the line players. The median for skill players was 47.5 while the median for line players was 14.5. The data shows that skill players are able to do more pushups than line players.
